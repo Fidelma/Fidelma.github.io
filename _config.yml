@@ -39,7 +39,7 @@ social_links:
 # remote_theme: thelehhman/plainwhite-jekyll
 markdown: kramdown
 # theme: minimal
-theme: plainwhite
+# theme: plainwhite
 # theme: minima
 plugins:
   - jekyll-feed
